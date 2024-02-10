@@ -3,6 +3,8 @@
 Python Paper Scissor is a modern take on the classic co-op hand game of Rock Paper Pencil Scissor, with the twist that your opponent is AI. I have used Tensorflow for image detection and custom tkinter for the UI.
 
 Hope you like it ;).
+
+(To play the game, type--"ipython GAME.py" in the command line window where the repo is cloned.)
 ## Screenshots
 
 ![1](https://i.ibb.co/vvz8v48/Picture1.png)
