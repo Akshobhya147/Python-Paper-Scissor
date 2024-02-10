@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collecetd_images</folder>
+	<filename>pencil.bcde0973-bc63-11ee-a30d-d2f67fe6f7a6.jpg</filename>
+	<path>C:\Users\aksho\tensorflow\RealTimeObjectDetection\Tensorflow\workspace\images\collected_images\collecetd_images\pencil.bcde0973-bc63-11ee-a30d-d2f67fe6f7a6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pencil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>259</ymin>
+			<xmax>329</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

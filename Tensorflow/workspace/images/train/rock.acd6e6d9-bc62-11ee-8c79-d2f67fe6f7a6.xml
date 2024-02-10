@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collecetd_images</folder>
+	<filename>rock.acd6e6d9-bc62-11ee-8c79-d2f67fe6f7a6.jpg</filename>
+	<path>C:\Users\aksho\tensorflow\RealTimeObjectDetection\Tensorflow\workspace\images\collected_images\collecetd_images\rock.acd6e6d9-bc62-11ee-8c79-d2f67fe6f7a6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>309</xmin>
+			<ymin>251</ymin>
+			<xmax>449</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

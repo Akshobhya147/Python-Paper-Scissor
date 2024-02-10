@@ -1,0 +1,1 @@
+fix folder in the repo contains possible resources required in case of any errors or problems.
