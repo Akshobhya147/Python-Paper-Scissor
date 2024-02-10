@@ -136,8 +136,8 @@ class Playwindow:
                 contain.destroy()
                 userScore=0;
                 compScore=0;
-                backButton=customtkinter.CTkButton(master=root,fg_color="white",text="Home",text_color="black",font=("Blogh Trial",30),hover_color="#fccb42",command=onClickBack)
-                backButton.place(x=10,y=20)
+                homeButton=customtkinter.CTkButton(master=root,fg_color="white",text="Home",text_color="black",font=("Blogh Trial",30),hover_color="#fccb42",command=onClickBack)
+                homeButton.place(x=10,y=20)
                 exitButton=customtkinter.CTkButton(master=root,fg_color="white",text="Exit",text_color="black",font=("Blogh Trial",30),hover_color="#fccb42",command=onClickExit)
                 exitButton.place(x=1050,y=20)
                 global final_result
