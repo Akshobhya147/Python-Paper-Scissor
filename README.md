@@ -7,7 +7,7 @@ Hope you like it ;).
 (To play the game, type--"ipython GAME.py" in the command line window where the repo is cloned.)
 ## Screenshots
 
-![1](https://i.ibb.co/vvz8v48/Picture1.png)
+![1](https://i.ibb.co/37bVdhf/Picture1.png)
 
 ![2](https://i.ibb.co/kDq1pWz/Picture2.png)
 
