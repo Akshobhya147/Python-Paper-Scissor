@@ -9,7 +9,7 @@ Hope you like it ;).
 
 ![1](https://i.ibb.co/37bVdhf/Picture1.png)
 
-![2](https://i.ibb.co/kDq1pWz/Picture2.png)
+![2](https://i.ibb.co/n1pz6GK/Picture2.png)
 
 ![3](https://i.ibb.co/WHH12YW/Picture6.png)
 
