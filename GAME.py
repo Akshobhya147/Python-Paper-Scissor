@@ -42,7 +42,7 @@ class PlayScreen:
     
 PlayScreen()
 
-instruction="Decide your fate with nunmber of rounds, then, \nclick on ''Begin'' to fight the Legendary battle of Rock,Paper,Pencil,Scissor \nagainst the mighty AI :')."
+instruction="Decide your fate with number of rounds, then, \nclick on ''Begin'' to fight the Legendary battle of Rock,Paper,Pencil,Scissor \nagainst the mighty AI :')."
 noOfRuns=0
 userChoice=None
 compChoice=None
